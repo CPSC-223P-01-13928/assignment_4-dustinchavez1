@@ -1,0 +1,1 @@
+report_daily('w.dat', 20020302)
